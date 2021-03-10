@@ -1,0 +1,23 @@
+visual encodings
+graphical perception experiments
+Protovis
+SVG
+index chart
+stacked graph
+small multiples
+horizon graph
+exploratory data analysis
+Q-Q plot
+SPLOM brushing-and-linking techniques
+parallel coordinates
+choropleth map
+graduated symbol map
+glyphs
+Dorling cartogram
+k-means clustering
+node-link diagram
+dendrogram
+enclosure diagram
+force-directed layout
+arc diagram
+seriation
