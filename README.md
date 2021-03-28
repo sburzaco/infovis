@@ -4,6 +4,6 @@
 
 [Makeover Monday week 9] (https://sburzaco.github.io/infovis/Primera%20Visualizaci%C3%B3n.html)
 
-[Makeover Monday week 11] (https://sburzaco.github.io/infovis/MakeoverMondayW11.html)
+[Makeover Monday week 11] (https://sburzaco.github.io/infovis/MakeoverMondayWeek11.html)
 
 
