@@ -9,3 +9,6 @@
 [Tarea sobre población argentina] (https://sburzaco.github.io/infovis/PoblacionArg.html)
 
 [Proyecto Datos Personales] (https://sburzaco.github.io/infovis/ProyectoDatosPersonales.html)
+
+[Imagen Proyecto Datos Personales] (https://sburzaco.github.io/infovis/ImagenProyecto.png)
+
